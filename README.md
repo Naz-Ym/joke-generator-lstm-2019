@@ -4,7 +4,7 @@
 
 ![no_smile](Media/no_smile_naz.png) | ![smiile](Media/smile_naz.png) 
 :--------------------------------:|:---------------------------------------|
-| *Figure 3: GAN architecture, Discriminator training (left) & Generator Training (right)* |
+| *Not smiling me initiating joke generator and smiling me stopping joke generation* |
 
 
 
