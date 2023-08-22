@@ -53,6 +53,10 @@ should be able to generate joke (Figure 1) Seed can be any random number or just
 beginning of the word.The joke generator tries to generate new jokes based on the input
 seed.
 
+| ![Work flow.jpg](Media/generate.png) | 
+|:--:| 
+| *Figure 1: Generator work flow* |
+
 ## 2. Database
 This database contains short 231,657 jokes in a csv format. Joke length varies from 10
 characters to 200 characters. For every line of joke the unique ID number is attached. The
