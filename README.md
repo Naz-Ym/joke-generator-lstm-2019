@@ -1,4 +1,15 @@
 # Joke Generator GAN with LSTM  
+## 0. Demo Example
+
+
+![no_smile](Media/no_smile_naz.png) | ![smiile](Media/smile_naz.png) 
+:--------------------------------:|:---------------------------------------|
+| *Figure 3: GAN architecture, Discriminator training (left) & Generator Training (right)* |
+
+
+
+![](Media/Output_Naz.gif)
+
 ## 1. Introduction and Problem Statement
 
 1. Joke Generation is complicated task for computers that requires deep understanding of
