@@ -103,6 +103,10 @@ vanilla LSTM it consist from LSTM layer followed by dense layer. However, number
 neuron is reduced to one and activation was chosen to be sigmoid instead of softmax, because
 of binary (Synthetic or Real) classification nature of this problem.
 
+![GAN_d](Media/GAN_d.png) | ![gan_g](Media/gan_g.png) 
+:--------------------------------:|:---------------------------------------|
+| *Figure 3: GAN architecture, Discriminator training (left) & Generator Training (right)* |
+
 ## 4. Theory
 Recurrent neural networks(RNN) are networks with loops[7]. LSTM is one type of the RNN
 which is efficient for many tasks. They can learn long-term dependencies[8]. LSTMs are efficient
