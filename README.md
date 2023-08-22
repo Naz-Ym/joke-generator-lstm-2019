@@ -78,6 +78,10 @@ and lower-cased Latin alphabet (in order to reduce dimensionality and number of 
 parameters). Need to mention that as our aim is to generate the sequences of words, that is
 why the whole data was taken as the training set.
 
+| ![Work flow.jpg](Media/datainfo.jpg) | 
+|:--:| 
+| *Figure 2: Dataset information. Processed database (most frequent ones)* |
+
 ## 3. Neural network architecture
 For this project two version of generation algorithm were implemented, namely vanilla LSTM
 generation as a baseline and GAN with LSTM inside. Vanilla LSTM network is comprised of
