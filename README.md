@@ -363,3 +363,57 @@ the more complicated LSTM-GAN. For this project vanilla LSTM is chosen to be the
 The project is important in terms of its applications as it can have lots of useful and beneficial
 applications. The initial objective of the project has been partially achieved. In the future,
 there will be further improvement of both architectures
+
+
+# References
+[1] O. Press, A. Bar, B. Bogin, J. Berant, and L. Wolf, “Language generation with recurrent
+generative adversarial networks without pre-training,” arXiv preprint arXiv:1706.01399,
+2017.
+
+[2] H. Ren and Q. Yang, “Neural joke generation,” in International Conference on Machine
+Learning, 2017.
+
+[3] D. Perez-Marin, Conversational Agents and Natural Language Interaction: Techniques and
+Effective Practices: Techniques and Effective Practices. IGI Global, 2011.
+
+[4] S. McGregor, M. M. McGinity, and S. Griffiths, “How many robots does it take? creativ-
+ity, robots and multi-agent systems,” in The AISB15’s 2nd International Symposium on
+Computational Creativity (CC2015), 2015, p. 23.
+
+[5] A. T. Hoang et al., “Impact of humor in advertising on consumer purchase decision,” 2013.
+
+[6] A. Djambaska, I. Petrovska, and E. Bundaleska, “Is humor advertising always effective?
+parameters for effective use of humor in advertising,” Journal of Management Research,
+vol. 8, no. 1, pp. 18–36, 2015.
+
+[7] C. Olah, “Understanding lstm networks, 2015,” URL http://colah.github.io/posts/2015-08-Understanding-LSTMs, 2015.
+
+[8] F. A. Gers, J. Schmidhuber, and F. Cummins, “Learning to forget: Continual prediction
+with lstm,” 1999.
+
+[9] S. Halbritter, “Generative adversarial networks,” 2017.
+
+[10] F. Corea, “What you are too afraid to ask about artificial intelligence (part i): Machine
+learning.”
+
+[11] H. Ma, C. Feng, J. Chang, and C. Wu, “3d-printed bioceramic scaffolds: From bone tissue
+engineering to tumor therapy,” Acta Biomaterialia, vol. 79, pp. 37 – 59, 2018. [Online].
+Available: http://www.sciencedirect.com/science/article/pii/S1742706118304938
+
+[12] M. Spinelli, “Simple generative adversarial network (gans) with keras,” Feb. 2018.
+[Online]. Available: https://medium.com/@mattiaspinelli/simple-generative-adversarial-network-gans-with-keras-1fe578e44a87
+
+[13] P. Viola and M. Jones, “Rapid object detection using a boosted cascade of simple features,”
+in Computer Vision and Pattern Recognition, 2001. CVPR 2001. Proceedings of the 2001
+IEEE Computer Society Conference on, vol. 1. IEEE, 2001, pp. I–I.
+
+[14] R. E. Schapire, “The boosting approach to machine learning: An overview,” in Nonlinear
+estimation and classification. Springer, 2003, pp. 149–171.
+
+[15] G. Bradski and A. Kaehler, Learning OpenCV: Computer vision with the OpenCV library.
+” O’Reilly Media, Inc.”, 2008.
+
+[16] D. D. Hromada, C. Tijus, S. Poitrenaud, and J. Nadel, “Zygomatic smile detection: The
+semi-supervised haar training of a fast and frugal system: A gift to opencv community,”
+in Computing and Communication Technologies, Research, Innovation, and Vision for the
+Future (RIVF), 2010 IEEE RIVF International Conference on. IEEE, 2010, pp. 1–5.
