@@ -249,7 +249,10 @@ features will be extracted from the trained samples. In order to do that, Haar f
 on the Figure 4 are used, where each feature is the value obtained by subtraction sum of the
 pixels under white area and sum of pixels under black area.
 
-Figure 4
+
+| ![Haar_features.jpg](Media/Haar_features.png) | 
+|:--:| 
+| *Figure 4. Haar-like features* |
 
 To find required quantity of features using kernels, integral images technique was applied to
 minimize the calculation. This process makes Haar feature-based cascade classifier to operate
